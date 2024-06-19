@@ -1,5 +1,6 @@
-## ¡Hola! Soy Bruno 👋
-
+<div align="center">
+  <h1> ¡Hola! Soy Bruno 👋</h1>
+</div>
 <!--
 **Shyedelta/Shyedelta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
